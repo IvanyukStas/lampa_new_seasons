@@ -1,4 +1,4 @@
-git add .(function () {
+(function () {
     'use strict';
 
     if (window.lampa_release_tracker) return;
